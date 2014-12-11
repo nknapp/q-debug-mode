@@ -1,0 +1,11 @@
+{
+  "name": "q-debug-mode",
+  "version": "0.0.1",
+  "main": "index.js",
+  "description": "Activates long-stack-traces in Q and warns about unhandled reasons on process exit",
+  "homepage": "http://github.com/nknapp/q-debug-mode",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nknapp/q-debug-mode.git"
+  }
+}
